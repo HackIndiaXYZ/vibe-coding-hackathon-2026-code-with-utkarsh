@@ -2,17 +2,11 @@
 Hackathon team repository for Code with Utkarsh - [hackindia-team:vibe-coding-hackathon-2026:code-with-utkarsh]
 
 
-## PranAI - AI Mental Wellness for Indian Students
-
-**Project:** PranAI  
-**Team:** Code with Utkarsh  
-**Hackathon:** Vibe Coding Hackathon 2026  
-**Status:** Demo/Prototype
-```
-
 # 🌊 PranAI - AI Mental Wellness for Indian Students
-# PranAI means---> "Intelligence that nurtures your life energy."
-> **⚠️ Hackathon Submission Notice:** Demo/Prototype version for Vibe Coding Hackathon 2026. Full production version with real-time AI integration in development.
+
+**PranAI means → "Intelligence that nurtures your life energy"**
+
+> ⚠️ **Hackathon Submission Notice:** Demo/Prototype version for Vibe Coding Hackathon 2026. Full production version with real-time AI integration in development.
 
 <div align="center">
 
@@ -27,12 +21,10 @@ Hackathon team repository for Code with Utkarsh - [hackindia-team:vibe-coding-ha
 
 ## 🎯 Problem Statement
 
-| Statistic | Reality |
-|-----------|---------|
-| **87%** | Indian students experience exam-related anxiety |
-| **1 in 4** | Teenagers feel persistently sad or hopeless |
-| **70%** | Never seek help due to stigma or fear |
-| **₹1500-3000** | Cost of traditional therapy per session |
+- **87%** of Indian students experience exam-related anxiety
+- **1 in 4** teenagers feel persistently sad or hopeless
+- **70%** never seek help due to stigma or fear
+- **₹1500-3000** is the cost of traditional therapy per session
 
 **The Gap:** Parents want to help but are left in the dark. Students want support but fear judgment.
 
@@ -42,286 +34,164 @@ Hackathon team repository for Code with Utkarsh - [hackindia-team:vibe-coding-ha
 
 > *PranAI* (Sanskrit for "life force") - AI-powered mental wellness platform
 
-| Feature | Description | Status |
-|---------|-------------|--------|
-| 🤖 **AI Companions** | 24/7 AI friends with different personalities | ✅ Demo Ready |
-| 👨‍👩‍👧‍👦 **Parent Alerts** | Real-time notifications for emotional patterns | ✅ Demo Ready |
-| 🎮 **Gamified Wellness** | Shell collection, streaks, achievements | ✅ Demo Ready |
-| 🛡️ **Safety System** | 4-level prankster detection & verification | ✅ Demo Ready |
-| 📊 **Daily Summaries** | AI-generated wellbeing insights for parents | ✅ Demo Ready |
+**Features:**
+- 🤖 **AI Companions** - 24/7 AI friends with different personalities ✅ Demo Ready
+- 👨‍👩‍👧‍👦 **Parent Alerts** - Real-time notifications for emotional patterns ✅ Demo Ready
+- 🎮 **Gamified Wellness** - Shell collection, streaks, achievements ✅ Demo Ready
+- 🛡️ **Safety System** - 4-level prankster detection & verification ✅ Demo Ready
+- 📊 **Daily Summaries** - AI-generated wellbeing insights for parents ✅ Demo Ready
 
 ---
 
 ## 🏗️ Tech Stack
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                      FRONTEND                               │
-│                    Flutter / Dart                           │
-├─────────────────────────────────────────────────────────────┤
-│                       BACKEND                               │
-│              Firebase (Auth, Firestore)                     │
-├─────────────────────────────────────────────────────────────┤
-│                      AI / ML                                │
-│      Mock AI Responses (Demo) / GPT API (Planned)           │
-├─────────────────────────────────────────────────────────────┤
-│                    NOTIFICATIONS                            │
-│        Local Notifications (Demo) / FCM (Planned)           │
-└─────────────────────────────────────────────────────────────┘
-```
+- **Frontend:** Flutter / Dart
+- **Backend:** Firebase (Auth, Firestore)
+- **AI / ML:** Mock AI Responses (Demo) / GPT API (Planned)
+- **Notifications:** Local Notifications (Demo) / FCM (Planned)
 
 ---
 
 ## 📱 Features Demonstrated
 
-### 👤 Student Side
+**Student Side:**
+- AI Chat Interface - 4 unique personalities (Alex, Jordan, Taylor, Casey)
+- Emotional Analysis - Keyword-based emotion detection
+- Ocean-themed UI - Calming visual design with animations
+- Shell Collection - Earn shells for positive habits
+- Daily Streaks - Track consistency and achievements
 
-| Feature | Description | Status |
-|---------|-------------|--------|
-| AI Chat Interface | 4 unique personalities | ✅ Working |
-| Emotional Analysis | Keyword-based detection | ✅ Working |
-| Ocean-themed UI | Calming visual design | ✅ Working |
-| Shell Collection | Earn shells for habits | ✅ Working |
-| Daily Streaks | Track consistency | ✅ Working |
+**Parent Side:**
+- Real-time Alerts - Push notifications for student concerns
+- Insight Dashboard - View child's emotional wellness trends
+- Actionable Tips - "Say this, try this" suggestions
+- Emergency Helplines - Quick access to crisis resources
+- Daily Summaries - AI-generated wellbeing reports
 
-### 👨‍👩‍👧 Parent Side
-
-| Feature | Description | Status |
-|---------|-------------|--------|
-| Real-time Alerts | Push notifications | ✅ Working |
-| Insight Dashboard | Wellness trends | ✅ Working |
-| Actionable Tips | "Say this" suggestions | ✅ Working |
-| Emergency Helplines | Crisis resources | ✅ Working |
-
-### 🛡️ Safety Features
-
-| Feature | Description | Status |
-|---------|-------------|--------|
-| 4-Level Prankster Detection | Progressive warnings | ✅ Working |
-| Parent Verification | Mandatory contact | ✅ Working |
-| Emergency Protocols | Helpline integration | ✅ Working |
+**Safety Features:**
+- 4-Level Prankster Detection - Progressive warnings and consequences
+- Parent Verification - Mandatory parent contact for pranksters
+- Emergency Protocols - Clear steps + helpline integration
 
 ---
 
 ## 🔄 Demo Flow
 
-### 📚 Scenario 1: Student Stress → Parent Alert
+**Scenario 1: Student Stress → Parent Alert**
 
-```
 1. Student logs in → Opens AI chat with "Alex"
 2. Types: "I'm really stressed about my upcoming exams"
 3. AI responds with empathetic message
 4. Parent receives push notification instantly
 5. Parent views insight & actionable tip
-```
 
-### 🎉 Scenario 2: Student Achievement → Parent Celebration
+**Scenario 2: Student Achievement → Parent Celebration**
 
-```
 1. Student shares: "I finally finished my project!"
 2. AI detects positive pattern
 3. Parent receives celebration alert
 4. Suggested response: "I'm proud of your hard work!"
-```
 
 ---
 
 ## 📸 UI Preview
 
-### 🏠 Student Dashboard
+**Student Dashboard**
+- 😊 Mood Tracking: 85%
+- 😴 Sleep Quality: 72%
+- 🧘 Meditation Streak: 14 days
+- 🤖 AI Sessions: 52 sessions
 
-```
-┌─────────────────────────────────────┐
-│         🌊 PranAI Ocean             │
-├─────────────────────────────────────┤
-│  😊 Mood Tracking      ████████░ 85%│
-│  😴 Sleep Quality      ███████░░ 72%│
-│  🧘 Meditation Streak  14 days      │
-│  🤖 AI Sessions        52 sessions  │
-└─────────────────────────────────────┘
-```
+**AI Chat Interface**
+- Alex: "Hi! How are you feeling today? 🧘"
+- User: "I'm stressed about my exams"
+- Alex: "Take a deep breath. You've got this. 🧘"
 
-### 💬 AI Chat Interface
-
-```
-┌─────────────────────────────────────┐
-│  🤖 Alex                    ● online│
-├─────────────────────────────────────┤
-│  ┌───────────────────────────────┐  │
-│  │ Alex: Hi! How are you         │  │
-│  │ feeling today? 🧘             │  │
-│  └───────────────────────────────┘  │
-│  ┌───────────────────────────────┐  │
-│  │ User: I'm stressed about      │  │
-│  │ my exams                      │  │
-│  └───────────────────────────────┘  │
-│  ┌───────────────────────────────┐  │
-│  │ Alex: Take a deep breath.     │  │
-│  │ You've got this. 🧘           │  │
-│  └───────────────────────────────┘  │
-└─────────────────────────────────────┘
-```
-
-### 🏡 Parent Dashboard
-
-```
-┌─────────────────────────────────────┐
-│         🏡 House Harbor             │
-├─────────────────────────────────────┤
-│  Today's Emotional Weather          │
-│  ┌───────────────────────────────┐  │
-│  │  😊 Calm & Happy              │  │
-│  │  Stress Level: 3/10           │  │
-│  │  Sleep Quality: Excellent     │  │
-│  └───────────────────────────────┘  │
-│                                      │
-│  🔔 New Insight Available            │
-│  ┌───────────────────────────────┐  │
-│  │ "Your child seems to be       │  │
-│  │  handling stress well today"  │  │
-│  └───────────────────────────────┘  │
-└─────────────────────────────────────┘
-```
+**Parent Dashboard**
+- Today's Emotional Weather: Calm & Happy
+- Stress Level: 3/10
+- Sleep Quality: Excellent
+- New Insight: "Your child seems to be handling stress well today"
 
 ---
 
 ## 📂 Project Structure
-
-```
 lib/
 ├── screens/
-│   ├── ai_chat/          # AI companion chat system
-│   │   ├── ai_chat_interface.dart
-│   │   ├── ai_chat_home.dart
-│   │   └── ai_character_creator.dart
-│   ├── parent/           # Parent dashboard & alerts
-│   │   ├── parent_dashboard.dart
-│   │   └── parent_notifications_screen.dart
-│   ├── chat/             # Student chat system
-│   │   ├── chat_hub_screen.dart
-│   │   ├── friend_chat_screen.dart
-│   │   └── add_friend_screen.dart
-│   └── auth/             # Authentication flows
-├── services/             # Firebase, AI, Notifications
-├── models/               # Data models
-└── widgets/              # Reusable components
-```
+│ ├── ai_chat/ # AI companion chat system
+│ ├── parent/ # Parent dashboard & alerts
+│ ├── chat/ # Student chat system
+│ └── auth/ # Authentication flows
+├── services/ # Firebase, AI, Notifications
+├── models/ # Data models
+└── widgets/ # Reusable components
 
 ---
 
 ## 🚀 Demo Credentials
 
-| Role | Email | Password |
-|------|-------|----------|
-| 👨‍🎓 **Student** | utkarsh@test.com | any |
-| 👨‍👩‍👧 **Parent** | parent@test.com | any |
+**Student:** utkarsh@test.com (any password)
 
-> **Note:** Demo accounts for testing. All data is mock data.
+**Parent:** parent@test.com (any password)
+
+> Demo accounts for testing. All data is mock data.
 
 ---
 
 ## 🛠️ Local Setup
 
-```bash
-# Clone repository
+
 git clone https://github.com/HackIndiaXYZ/vibe-coding-hackathon-2026-code-with-utkarsh.git
-
-# Navigate to project
 cd prana
-
-# Install dependencies
 flutter pub get
-
-# Run the app
 flutter run
-```
+📊 Impact Metrics (Projected)
+Students reached (Year 1): 50,000+
 
----
+Reduction in unreported issues: 85%
 
-## 📊 Impact Metrics (Projected)
+Parent satisfaction rate: 90%
 
-| Metric | Target |
-|--------|--------|
-| Students reached (Year 1) | 50,000+ |
-| Reduction in unreported issues | 85% |
-| Parent satisfaction rate | 90% |
-| Cost to students | **₹0 (Free)** |
+Cost to students: ₹0 (Free)
 
----
+🎯 What Makes PranAI Unique
+Parent involvement → Other apps: ❌ No | PranAI: ✅ Yes
 
-## 🎯 What Makes PranAI Unique
+Real-time alerts → Other apps: ❌ No | PranAI: ✅ Yes
 
-| Feature | Other Apps | **PranAI** |
-|---------|------------|-------------|
-| Parent involvement | ❌ No | ✅ **Yes** |
-| Real-time alerts | ❌ No | ✅ **Yes** |
-| Privacy protection | ❌ Compromised | ✅ **Parents never see chats** |
-| Indian context | ❌ Western focus | ✅ **Designed for Indian students** |
-| Cost | 💰 Expensive | 🆓 **Free** |
+Privacy protection → Other apps: ❌ Compromised | PranAI: ✅ Parents never see chats
 
----
+Indian context → Other apps: ❌ Western focus | PranAI: ✅ Designed for Indian students
 
-## 🔮 Future Roadmap
+Cost → Other apps: 💰 Expensive | PranAI: 🆓 Free
 
-- [ ] **Phase 1:** Real GPT API integration
-- [ ] **Phase 2:** Video call support with AI characters
-- [ ] **Phase 3:** Peer support groups for students
-- [ ] **Phase 4:** Professional counselor integration
-- [ ] **Phase 5:** Regional language support
+🔮 Future Roadmap
+Phase 1: Real GPT API integration
 
----
+Phase 2: Video call support with AI characters
 
-## ⚠️ Important Note for Judges
+Phase 3: Peer support groups for students
 
-**This is a DEMO/PROTOTYPE** for Vibe Coding Hackathon 2026.
+Phase 4: Professional counselor integration
 
-### ✅ Working in Demo:
-- UI/UX flows
-- Parent alert system
-- Push notifications
-- Complete navigation
-- Simulated AI responses
+Phase 5: Regional language support
 
-### 🔄 Demo Mode Features:
-- Mock AI responses (keyword-based)
-- Local notifications
-- Simulated data
+⚠️ Important Note for Judges
+This is a DEMO/PROTOTYPE for Vibe Coding Hackathon 2026.
 
-### 🚀 Production Version Will Include:
-- Real GPT-5.4 Mini API
-- Cloud push notifications (FCM)
-- Real-time database sync
-- Scalable backend infrastructure
+Working in Demo: UI/UX flows, Parent alert system, Push notifications, Complete navigation, Simulated AI responses
 
----
+Production Version: Real GPT-5.4 Mini API, Cloud push notifications (FCM), Real-time database sync, Scalable backend infrastructure
 
-## 👥 Team
+👥 Team
+Code with Utkarsh - Utkarsh (Lead Developer - Full-stack Flutter + Firebase)
 
-### **Code with Utkarsh**
-
-| Role | Name |
-|------|------|
-| Lead Developer | Utkarsh |
-
-*Full-stack Flutter + Firebase development*
-
----
-
-## 📝 License
-
-MIT License - See [LICENSE](LICENSE) file
-
----
+📝 License
+MIT License - See LICENSE file
 
 <div align="center">
+Made with ❤️ for India's Students
 
-**Made with ❤️ for India's Students**
+"Mental wellness is not a luxury, it's a necessity"
 
-*"Mental wellness is not a luxury, it's a necessity"*
-
-
-</div>
-```
-
----
-
+</div> ```
