@@ -130,9 +130,9 @@ lib/
 
 ## 🚀 Demo Credentials
 
-**Student:** test@test.com (password: test@123)
+**Student:** test@test.com (password: test123)
 
-**Parent:** test@test.com (password: test@123)
+**Parent:** test@test.com (password: test123)
 
 
 > Demo accounts for testing. All data is mock data.
