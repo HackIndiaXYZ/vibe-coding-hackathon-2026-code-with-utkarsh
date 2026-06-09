@@ -137,6 +137,17 @@ lib/
 
 > Demo accounts for testing. All data is mock data.
 
+## 🎥 Demo Video
+
+[Watch PranAI Demo (7:56 min)](https://youtu.be/LhMP8Brz7Gs)
+
+**Video covers:**
+- ✅ Student login & dashboard
+- ✅ AI chat with emotional support  
+- ✅ Parent notification system
+- ✅ Parent dashboard & insights
+- ✅ Complete feature walkthrough
+
 ---
 
 ## 🛠️ Local Setup
