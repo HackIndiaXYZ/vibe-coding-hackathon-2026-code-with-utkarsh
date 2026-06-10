@@ -115,17 +115,15 @@ Hackathon team repository for Code with Utkarsh - [hackindia-team:vibe-coding-ha
 
 ---
 
-## 📂 Project Structure
 lib/
 ├── screens/
-│ ├── ai_chat/ # AI companion chat system
-│ ├── parent/ # Parent dashboard & alerts
-│ ├── chat/ # Student chat system
-│ └── auth/ # Authentication flows
-├── services/ # Firebase, AI, Notifications
-├── models/ # Data models
-└── widgets/ # Reusable components
-
+│   ├── ai_chat/          # AI companion chat system
+│   ├── parent/           # Parent dashboard & alerts
+│   ├── chat/             # Student chat system
+│   └── auth/             # Authentication flows
+├── services/             # Firebase, AI, Notifications
+├── models/               # Data models
+└── widgets/              # Reusable components
 ---
 
 ## 🚀 Demo Credentials
@@ -154,15 +152,12 @@ lib/
 
 
 git clone https://github.com/HackIndiaXYZ/vibe-coding-hackathon-2026-code-with-utkarsh.git
+
 cd prana
+
 flutter pub get
+
 flutter run
-📊 Impact Metrics (Projected)
-Students reached (Year 1): 50,000+
-
-Reduction in unreported issues: 85%
-
-Parent satisfaction rate: 90%
 
 Cost to students: ₹0 (Free)
 
