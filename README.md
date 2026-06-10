@@ -150,7 +150,8 @@ lib/
 
 ## 🛠️ Local Setup
 
-
+TO RUN
+{
 git clone https://github.com/HackIndiaXYZ/vibe-coding-hackathon-2026-code-with-utkarsh.git
 
 cd prana
@@ -158,7 +159,7 @@ cd prana
 flutter pub get
 
 flutter run
-
+}
 Cost to students: ₹0 (Free)
 
 🎯 What Makes PranAI Unique
